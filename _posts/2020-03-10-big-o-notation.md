@@ -18,6 +18,6 @@ Say that we have a phone book with 26 names in it (one for each letter of the al
 If we wanted to search for *Zoura Zubiri*, one strategy would be to go through the names one by one, until I reach Zoura. Lets say it takes me 1 second to read each name. So for the 26th name, it took me 26 seconds to reach Zoura.
 
 <figure class="image">
-  <img src="{{ site.baseurl }}/assets/images/demystifying_datastructures/0-introduction/phonebook_turning.gif" alt="phonebook big o">
+  <img src="{{ site.baseurl }}/assets/images/demystifying_datastructures/0-introduction/phonebookturning.gif" alt="phonebook big o">
   <figcaption>Figure 1. 1, 2, 3...26 seconds in total to finally find Zoura Zubiri</figcaption>
 </figure>
