@@ -38,9 +38,3 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-plugins:
-  - jekyll-paginate
-
-paginate: 3
-paginate_path: "/page/:num/"
