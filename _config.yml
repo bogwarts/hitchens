@@ -22,6 +22,7 @@ url: "https://bogwarts.github.io" # the base hostname & protocol for your site, 
 icon: /assets/images/icon-512.png
 twitter_username: patdryburgh
 github_username:  patdryburgh
+markdown_url: "https://bogwarts.github.io/hitchens/images/demystifying_datastructures"
 
 # Build settings
 markdown: kramdown
