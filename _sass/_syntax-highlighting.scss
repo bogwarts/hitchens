@@ -8,6 +8,14 @@ code.highlighter-rouge {
   font-size: .875em;
 }
 
+code {
+  display: contents;
+}
+
+pre.highlight {
+  display: contents;
+}
+
 .highlight {
   background: #fff;
   font-family: courier, monospace;
