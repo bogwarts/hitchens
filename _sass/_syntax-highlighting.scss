@@ -8,12 +8,13 @@ code.highlighter-rouge {
   font-size: .875em;
 }
 
-code {
-  display: contents;
+pre {
+  white-space: pre-wrap;
 }
 
 pre.highlight {
-  display: contents;
+  white-space: pre-wrap;
+  // display: contents;
 }
 
 .highlight {

@@ -27,7 +27,7 @@ Say that we have a phone book with 26 names in it (one for each letter of the al
 If we wanted to search for *Zoura Zubiri*, one strategy would be to go through the names one by one, until I reach Zoura. Lets say it takes me 1 second to read each name. So for the 26th name, it took me 26 seconds to reach Zoura.
 
 <figure class="image">
-  <img src="{{ site.baseurl }}/images/demystifying_datastructures/0-introduction/phonebook.png" alt="phonebook big o">
+  <img src="{{ site.markdown_url }}/0-introduction/phonebook.png" alt="phonebook big o">
 </figure>
 
 I know that Z is later than M, so I ignore the first half. This means there's half the amount of letters I have to search!
